@@ -10,6 +10,7 @@
 <img width="1912" height="1066" alt="ordererror4" src="https://github.com/user-attachments/assets/5220cfc6-12dc-43c4-8f8c-c4ec7ac87bdd" />
 
 <h3>Order's Details</h3>
-<img width="1912" height="1008" alt="final" src="https://github.com/user-attachments/assets/b5c55f9c-12f1-4b09-a1f0-f459a60061e6" />
+<img width="1687" height="725" alt="image" src="https://github.com/user-attachments/assets/7a068510-65c7-40d5-bdf1-a8b963f88514" />
+
 
 
