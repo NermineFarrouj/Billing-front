@@ -1,59 +1,15 @@
 # EcomApp
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.0.
+<h3>Customers</h3>
+<img width="1915" height="1015" alt="products" src="https://github.com/user-attachments/assets/7de7e7ac-9b18-4fdd-ad15-200faad889b7" />
 
-## Development server
+<h3>Products</h3>
+<img width="1902" height="1010" alt="customers" src="https://github.com/user-attachments/assets/875a13cc-df57-4601-b754-9666d99404a0" />
 
-To start a local development server, run:
+<h3>Order per customer</h3>
+<img width="1912" height="1066" alt="ordererror4" src="https://github.com/user-attachments/assets/5220cfc6-12dc-43c4-8f8c-c4ec7ac87bdd" />
 
-```bash
-ng serve
-```
+<h3>Order's Details</h3>
+<img width="1912" height="1008" alt="final" src="https://github.com/user-attachments/assets/b5c55f9c-12f1-4b09-a1f0-f459a60061e6" />
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
