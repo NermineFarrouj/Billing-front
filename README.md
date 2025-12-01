@@ -5,11 +5,10 @@
 
 
 <h3>Products</h3>
-<img width="1706" height="650" alt="image" src="https://github.com/user-attachments/assets/5b750f17-f301-434d-8f77-f30c2327693a" />
-
+<img width="1687" height="725" alt="image" src="https://github.com/user-attachments/assets/2df49153-ca91-4fcd-aed1-94179a7dba1f" />
 
 <h3>Order per customer</h3>
-<img width="1465" height="727" alt="image" src="https://github.com/user-attachments/assets/986c6076-532f-4d9a-8d3a-ecd4e86a5912" />
+<img width="1457" height="771" alt="image" src="https://github.com/user-attachments/assets/b200f6af-4f50-4835-9a97-099a0e214ed9" />
 
 
 <h3>Order's Details</h3>
