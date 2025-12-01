@@ -1,7 +1,8 @@
 # EcomApp
 
 <h3>Customers</h3>
-<img width="1915" height="1015" alt="products" src="https://github.com/user-attachments/assets/7de7e7ac-9b18-4fdd-ad15-200faad889b7" />
+<img width="1655" height="736" alt="image" src="https://github.com/user-attachments/assets/e2111b91-bcd6-4080-a2d4-1c4c43c29b18" />
+
 
 <h3>Products</h3>
 <img width="1706" height="650" alt="image" src="https://github.com/user-attachments/assets/5b750f17-f301-434d-8f77-f30c2327693a" />
