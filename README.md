@@ -12,7 +12,8 @@
 
 
 <h3>Order's Details</h3>
-<img width="1702" height="805" alt="image" src="https://github.com/user-attachments/assets/67ea7f6f-2215-401a-842d-8bad0a6efcad" />
+<img width="1693" height="856" alt="image" src="https://github.com/user-attachments/assets/46ec3253-bd41-47f5-b121-8158fff3cda0" />
+
 
 
 
